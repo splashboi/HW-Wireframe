@@ -1,1 +1,123 @@
-style.css
+
+header {
+        background:#ebebeb;
+        color:#777;
+        font-size:20px;
+        margin-left:80px;
+        margin-right:80px;
+        margin-top:10px;
+        margin-bottom:10px;
+        padding-top:5px;
+        line-height:75px;
+        width:940px;
+        text-align: center;
+}
+
+.main-container {
+      background-color:#ebebeb;
+      width: 445px;
+      height:302px;
+      margin-left: 80px;
+      margin-top:25px;
+      text-align:center;
+      color:#777;
+      padding-right:126px;
+}
+
+.container{
+            background-color: #777;
+            width:107%;
+            height:80%;
+            margin-left:45px;
+            margin-right:-402px;
+            margin-top:30px;
+            float: left;
+            text-align: center;
+            color:#ebebeb;
+            margin-bottom:11px;
+                 
+}
+
+.nav { 
+      background-color:#ebebeb;
+       font-size:20px;
+        margin-left:80px;
+        margin-right:80px;
+        margin-top:10px;
+        margin-bottom:10px;
+        padding-top:5px;
+        line-height:75px;
+        width:940px;
+        text-align: center;
+        color: #777;
+     }
+
+body{
+     font-family: Arial,Helvetica Neue, Helvetica, sans-serif;
+     background-color:#777;
+     font-size:20px;
+     margin: 0 auto;
+}
+ 
+p{
+    font-size: 20px;
+    color:black;
+}
+
+.article {
+   width: 97%;
+   height: 70%;
+   background-color:#777;
+   margin-left: 5px;
+   margin-right: 55px;
+   margin-bottom:2%;
+   margin-top: 25%;
+   text-align: center;
+   margin-top: 1px;
+}
+ .aside{
+        width: 31%;
+        height: 44%;
+        margin-top: -302px;
+        margin-right: 72px;
+        margin-bottom: 216px;
+        background-color: #ebebeb;
+        float: right;
+        text-align: center;
+        color: #777;
+        line-height: 450%;
+        padding-bottom: 211px;
+    }
+ .paragraph {
+   height: 30px;
+   width: 90%;
+   margin-top: 3px;
+   margin-left: 5%;
+   background-color:#ebebeb;
+   color: #777;
+}
+.heads{
+   height: 26px;
+   width: 90%;
+   margin-top: 13px;
+   margin-left: 5%;
+   background-color:#ebebeb;
+   color: #777;
+   font-size: 20px;
+}
+
+footer {
+width: auto;
+height: 75px;
+margin-top: 20px;
+margin-left: 75px;
+margin-right: 70px;
+background-color:#ebebeb;
+font-size: 20px;
+line-height: 3605px;
+text-align: center;
+color: #777;
+padding-bottom: 10px;
+line-height: 85px;
+}
+
